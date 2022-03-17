@@ -19,7 +19,8 @@ and the article. The weblink provided within the article is not active at the mo
 ![Final UI](SS/ScrollFeature.png)
 
 **The screenshot above shows the implementation of the scroll feature in the final app using the scrollView view group. The article 
-section was enclosed in the scrollView and the web link was also made active.**
+section was enclosed in the scrollView and the web link was also made active. The scroll-line shown in the screenshot is the 
+proof for the scroll feature enabled in the app.**
 
 ---
 
